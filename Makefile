@@ -19,6 +19,7 @@ run-composer: composer.phar
 	./composer.phar --no-interaction install
 
 run-php: run-composer
+	gulp
 	php -S localhost:${PORT} --docroot www
 
 run-vagrant:
