@@ -1,0 +1,15 @@
+.sonar
+.DS_Store
+.project
+*.esproj
+*.sublime-workspace
+*.sublime-project
+.idea
+.vagrant
+www/config_override*
+node_modules
+composer-setup.php
+composer.phar
+._*
+yarn-error.log
+webpack-report.html
