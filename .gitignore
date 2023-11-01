@@ -13,3 +13,5 @@ composer.phar
 ._*
 yarn-error.log
 webpack-report.html
+
+installed.php
