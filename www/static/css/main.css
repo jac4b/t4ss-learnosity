@@ -15,7 +15,12 @@ body {
     line-height: 1.6;
     letter-spacing: .01em;
     color: #143746;
-    background-color: #fff;
+    background-color: #9F5794;
+    background-image: url(https://t4lgames.time4learning.com/production/t4ss_grade4/activity/assets/images/start_final_botton_1.png);
+    background-position-x: 50%;
+    background-position-y: 50%;
+    background-repeat-x: repeat;
+    background-repeat-y: repeat;
     position: relative;
     margin: 0;
     -webkit-font-smoothing: antialiased
@@ -137,13 +142,13 @@ h1, h2, h3, h4, h5, h6, .navbar {
     padding-top:8px;
     text-align: center;
     color: #fff;
-    background-color: #CE0E2D;
+    background-color: #9F5794;
     border-radius: .5em;
 
 }
 
 .panel .panel-body a.demo_link:hover {
-    background-color: #d70000;
+    background-color: #7e4275;
     text-decoration: none;
 }
 
@@ -199,19 +204,20 @@ h1, h2, h3, h4, h5, h6, .navbar {
 }
 
 .footer .section {
-    background-color: #143746;
+    background-color: #5F3159;
     text-align: left;
-    padding:40px 0;
+    /* padding:40px 0; */
     margin-bottom:0px;
     line-height:25px;
-    min-height: 150px;
+    min-height: 60px;
+    height: 110px;
 }
 
 .footer .section .row {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 30px;
+    /* padding: 30px; */
     text-align: center;
     padding-left: 8%;
     padding-right: 8%;
@@ -762,7 +768,8 @@ a:focus,
 
 .navbar {
     min-height:95px;
-    background-color: #fff;
+    /* background-color: #5F3159; */
+
     font-size: 16px;
     letter-spacing: 0.04em;
     border:none;
@@ -772,10 +779,13 @@ a:focus,
 .navbar a {
     border-bottom: 0;
     padding-bottom: 0;
+    color: rgb(0, 0, 0);
 }
 
 .navbar .container {
-    padding-top: 25px;
+    padding-top: 0;
+    padding-left: 0;
+    padding-right: 0;
 }
 
 .navbar .view_source {
@@ -796,12 +806,9 @@ a:focus,
 }
 
 .navbar .view_source:hover {
-    background-color: #d70000;
+    background-color: #7E4275;
 }
 
-.navbar a {
-    color: #143746;
-}
 
 .navbar a.right-chevron:after {
     content: "";
@@ -829,7 +836,7 @@ a:focus,
 
 .navbar li a:hover {
     background-color: #fff;
-    color: #ef3232;
+    color: #7E4275;
     text-decoration:underline;
 }
 
@@ -840,6 +847,18 @@ a:focus,
 
 a {
     color: #2559ee;
+}
+
+#nav-main {
+    background-color: #5f3159;
+}
+
+#nav-main a {
+    color: white;
+}
+
+#nav-main a:hover {
+    color: #7e4275;
 }
 
 a.logo:after {
@@ -895,10 +914,11 @@ img.product-logo {
 
 .section {
     /*padding-top: 24px;*/
-    padding-bottom: 30px;
+    /* padding-bottom: 30px; */
     /*padding-left: 60px;*/
     /*padding-right: 60px;*/
     margin-bottom: 20px;
+    padding: 20px;
 }
 
 .section.pad-sml {
@@ -915,10 +935,8 @@ img.product-logo {
 
 .jumbotron h1 {
     font-weight: 100;
-    padding: 18px 0 35px;
-    border-bottom: 1px solid #ebf0f0;
+    padding: 28px 0 5px;
     letter-spacing: 0.03em;
-    margin-bottom: 40px;
 }
 
 .jumbotron p {
@@ -965,8 +983,8 @@ img.product-logo {
 
 .jumbotron.section {
     min-height: 10px;
-    padding-left: 0px;
-    padding-right: 0px;
+    padding-left: 30px;
+    padding-right: 30px;
 }
 
 .landing .jumbotron .glyphicon {
@@ -1021,9 +1039,9 @@ img.product-logo {
 }
 
 .section-intro {
-    border-bottom: 1px solid #efefef;
+    /* border-bottom: 1px solid #efefef;
     padding-bottom: 25px;
-    margin-bottom: 40px;
+    margin-bottom: 40px; */
 }
 
 .hints table {

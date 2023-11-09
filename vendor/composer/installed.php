@@ -3,7 +3,7 @@
         'name' => 'learnosity/learnosity-demos',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => 'cff72494abab6264c073358efb546ab4eb8e619d',
+        'reference' => '103942d684fb4cf20893e29d1d971c8af045f3c8',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'learnosity/learnosity-demos' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => 'cff72494abab6264c073358efb546ab4eb8e619d',
+            'reference' => '103942d684fb4cf20893e29d1d971c8af045f3c8',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

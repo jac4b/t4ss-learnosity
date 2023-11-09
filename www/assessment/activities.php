@@ -45,7 +45,7 @@ $signedRequest = $Init->generate();
 
 ?>
 
-    <div class="jumbotron section">
+    <!-- <div class="jumbotron section">
         <div class="toolbar">
             <ul class="list-inline">
                 <li data-toggle="tooltip" data-original-title="Preview API Initialisation Object"><a href="#"  data-toggle="modal" data-target="#initialisation-preview" aria-label="Preview API Initialisation Object"><span class="glyphicon glyphicon-search"></span></a></li>
@@ -56,7 +56,7 @@ $signedRequest = $Init->generate();
             <h2>Build Pre-Written Fixed Form Assessments</h2>
             <p>Build fixed-form activities in Learnosity, and deliver high-quality pre-authored assessments to your end-users using Activities. Activities are a pre-authored fixed form test for multiple items, along with test configuration, authored in the Learnosity Author site, or via the Author API.</p>
         </div>
-    </div>
+    </div> -->
 
     <div class="section pad-sml">
         <!-- Container for the assess api to load into -->

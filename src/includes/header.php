@@ -1,6 +1,6 @@
 <?php
 if (!isset($pageTitle)) {
-    $pageTitle = 'Learnosity Demos';
+    $pageTitle = 'CMS Time4Learning';
 }
 ?>
 <!DOCTYPE html>

@@ -5,9 +5,8 @@ include_once 'includes/header.php';
 ?>
 
     <div class="jumbotron section index">
-        <h1><img class="product-logo" src="/static/images/product-author-full.png" alt="Learnosity Author logo"></h1>
         <div class="section-intro">
-            <p>Learnosity Author allows you to easily integrate content creation, searching and filtering into your own content management system.</p>
+            <h1>Authoring</h1>
             <p>
             <ul>
                 <li><a class="blue-chevron" href="#browsing">Browsing Items and Activities</a></li>
@@ -20,8 +19,6 @@ include_once 'includes/header.php';
     </div>
     <div class="section index">
         <h2 id="browsing">Browsing Items and Activities</h2>
-        <p>Use our Author API to provide a list of items or activities created in Learnosity, filter these lists for
-            access control, or limit to read-only mode for review.</p> <!--replace with CSS-->
         <br>
 
         <div class="row">
@@ -193,7 +190,6 @@ include_once 'includes/header.php';
     <div class="section index">
 
         <h2 id="creating">Creating Content, Questions, and Features</h2>
-        <p>Discover how to create powerful and complex assessment and learning content quickly and easily!</p>
         <br>
 
         <div class="row">
@@ -258,8 +254,7 @@ include_once 'includes/header.php';
     </div>
     <div class="section index">
 
-        <h2 id="integrate">Customizing and Integrating into your Authoring environment</h2>
-        <p>Learnosity's APIs are designed to be easily customized and extended, allowing you to build your content management system the way you want.</p> <!--replace with CSS-->
+        <h2 id="integrate">Customizing and Integrating</h2>
 
         <div class="row">
             <div class="col-md-6">

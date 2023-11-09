@@ -5,9 +5,8 @@ include_once 'includes/header.php';
 ?>
 
 <div class="jumbotron section index">
-    <h1><img class="product-logo" src="/static/images/product-analytics-full.png" alt="Learnosity Analytics logo"></h1>
     <div class="section-intro">
-        <p>Learnosity Analytics provides a suite of powerful tools, covering both embeddable, user-friendly reporting, perfectly suited for quickly building out your product, as well as granular back end data-centric functionality to power your own bespoke reporting needs.</p>
+        <h1>Analytics</h1>
         <ul>
             <li><a class="blue-chevron" href="#dashboard-reporting">Embedding dashboard-style Reporting</a></li>
             <li><a class="blue-chevron" href="#customizing-reporting">Customizing your reporting experience</a></li>
@@ -15,9 +14,9 @@ include_once 'includes/header.php';
         </ul>
         </p>
     </div>
-
+</div>
+<div class="section index">
     <h2 id="dashboard-reporting">Embedding dashboard-style Reporting</h2>
-    <p>Easily use Learnosity's Reports API to embed visual reports, ranging from student & classroom reporting to large-scale district reports!</p>
     <br>
 
     <div class="row">
@@ -124,8 +123,9 @@ include_once 'includes/header.php';
             </div>
         </div>
     </div>
-
-    <h3 id="customizing-reporting">Customizing your reporting experience</h3>
+</div>
+<div class="section index">
+    <h2 id="customizing-reporting">Customizing your reporting experience</h2>
     <p></p>
     <br>
 
@@ -158,7 +158,9 @@ include_once 'includes/header.php';
             </div>
         </div>
     </div>
-    <h3 id="data-reporting">Using granular, back-end data reporting</h3>
+</div>
+<div class="section index">
+    <h2 id="data-reporting">Using granular, back-end data reporting</h2>
 
     <p></p>
     <br>
@@ -178,7 +180,7 @@ include_once 'includes/header.php';
             </div>
         </div>
     </div>
-
+</div>
 </div>
 
 <?php include_once 'includes/footer.php';

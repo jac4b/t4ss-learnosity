@@ -1,20 +1,21 @@
 <?php
 $pages = array(
     'Authoring' => array(
-        'authoring/index.php' => 'Author'
+        'authoring/index.php' => 'Authoring'
     ),
     'Assessment' => array(
         'assessment/index.php' => 'Assessments'
     ),
     'Analytics' => array(
         'analytics/index.php' => 'Analytics'
-    ),
-    'Use Cases' => array(
-        'usecases/index.php' => 'Use Cases'
-    ),
-    'Partners' => array(
-        'partners/index.php' => 'Partners'
     )
+    // ),
+    // 'Use Cases' => array(
+    //     'usecases/index.php' => 'Use Cases'
+    // ),
+    // 'Partners' => array(
+    //     'partners/index.php' => 'Partners'
+    // )
 );
 
 $url = 'https://github.com/Learnosity/learnosity-demos/blob/master/www' . $_SERVER['REQUEST_URI'];
@@ -35,9 +36,7 @@ $santized_url = filter_var($url, FILTER_SANITIZE_FULL_SPECIAL_CHARS);
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
         </button>
-        <a href="/" class="logo">
-            <img src="/static/images/lrn-demos-logo-2x.png" alt="Learnosity Demos" class="logo">
-        </a>
+
     </div>
     <div class="navbar-collapse collapse" id="nav-main">
     <ul class="nav navbar-nav">
@@ -62,7 +61,7 @@ $santized_url = filter_var($url, FILTER_SANITIZE_FULL_SPECIAL_CHARS);
         }
         ?>
     </ul>
-    <div class="nav-sec-wrapper">
+    <!-- <div class="nav-sec-wrapper">
         <ul class="nav navbar-nav nav-sec">
             <li>
                 <a href="<?=$santized_url?>" class="view_source">
@@ -73,5 +72,5 @@ $santized_url = filter_var($url, FILTER_SANITIZE_FULL_SPECIAL_CHARS);
                     </div>
 
         </div >
-    </div >
+    </div > -->
 </div >
