@@ -24,6 +24,8 @@ $roAdditionalOrgId=505;
 */
 $domain = explode(':', $_SERVER['HTTP_HOST'])[0];
 
+echo "<script>console.log('Domain is: $domain ' );</script>";
+
 /*
 |--------------------------------------------------------------------------
 | Learnosity URLs

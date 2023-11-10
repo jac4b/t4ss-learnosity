@@ -31,7 +31,7 @@ include_once 'includes/header.php';
                         <p>The item list mode allows authors to browse and search Learnosity-hosted item banks for
                             existing items.</p>
                         <p class="text-right">
-                            <a class="demo_link" href="./item-list.php" aria-label="Item list demo">Demo</a>
+                            <a class="demo_link" href="https://demos.learnosity.com/authoring/item-list.php" aria-label="Item list demo">Demo</a>
                         </p>
                     </div>
                 </div>
@@ -45,7 +45,7 @@ include_once 'includes/header.php';
                         <p>The activity list mode allows authors to search for Learnosity-hosted activities. From there
                             it can be configured to allow users to edit activities.</p>
                         <p class="text-right">
-                            <a class="demo_link" href="./activity-list.php" aria-label="Activity list demo">Demo</a>
+                            <a class="demo_link" href="https://demos.learnosity.com/authoring/activity-list.php" aria-label="Activity list demo">Demo</a>
                         </p>
                     </div>
                 </div>
@@ -61,7 +61,7 @@ include_once 'includes/header.php';
                     <div class="panel-body">
                         <p>Use tags to control which items in your item bank are visible to different users.</p>
                         <p class="text-right">
-                            <a class="demo_link" href="./item-list-filtered.php" aria-label="Filtered item list demo">Demo</a>
+                            <a class="demo_link" href="https://demos.learnosity.com/authoring/item-list-filtered.php" aria-label="Filtered item list demo">Demo</a>
                         </p>
                     </div>
                 </div>
@@ -74,7 +74,7 @@ include_once 'includes/header.php';
                     <div class="panel-body">
                         <p>Use tags to control which activities in your item bank are visible to different users.</p>
                         <p class="text-right">
-                            <a class="demo_link" href="./activity-list-filtered.php" aria-label="Filtered activity list demo">Demo</a>
+                            <a class="demo_link" href="https://demos.learnosity.com/authoring/activity-list-filtered.php" aria-label="Filtered activity list demo">Demo</a>
                         </p>
                     </div>
                 </div>
@@ -104,7 +104,7 @@ include_once 'includes/header.php';
                     <div class="panel-body">
                         <p>Easily build your own item picker UI with our multiple selection mode.</p>
                         <p class="text-right">
-                            <a class="demo_link" href="./item-list-enable-selection.php" aria-label="Select multiple items demo">Demo</a>
+                            <a class="demo_link" href="https://demos.learnosity.com/authoring/item-list-enable-selection.php" aria-label="Select multiple items demo">Demo</a>
                         </p>
                     </div>
                 </div>
@@ -120,7 +120,7 @@ include_once 'includes/header.php';
                     <div class="panel-body">
                         <p>Easily discover items by using pre-defined tag hierarchies.</p>
                         <p class="text-right">
-                            <a class="demo_link" href="./item-list-browse-tag-hierarchy.php" aria-label="Tag hierarchies demo">Demo</a>
+                            <a class="demo_link" href="https://demos.learnosity.com/authoring/item-list-browse-tag-hierarchy.php" aria-label="Tag hierarchies demo">Demo</a>
                         </p>
                     </div>
                 </div>
@@ -133,7 +133,7 @@ include_once 'includes/header.php';
                     <div class="panel-body">
                         <p>Hide specific tags from the item and activity tagging UI.</p>
                         <p class="text-right">
-                            <a class="demo_link" href="./hide-tags.php" aria-label="Controlling which tags appear demo">Demo</a>
+                            <a class="demo_link" href="https://demos.learnosity.com/authoring/hide-tags.php" aria-label="Controlling which tags appear demo">Demo</a>
                         </p>
                     </div>
                 </div>
@@ -150,7 +150,7 @@ include_once 'includes/header.php';
                         <p>Programmatically search, navigate to existing content, and create new content in your item
                             bank.</p>
                         <p class="text-right">
-                            <a class="demo_link" href="./routing.php" aria-label="Programming navigation demo">Demo</a>
+                            <a class="demo_link" href="https://demos.learnosity.com/authoring/routing.php" aria-label="Programming navigation demo">Demo</a>
                         </p>
                     </div>
                 </div>
@@ -164,7 +164,7 @@ include_once 'includes/header.php';
                         <p>Use the 'on' public method to bind to authoring events, supporting custom
                             notifications and actions.</p>
                         <p class="text-right">
-                            <a class="demo_link" href="./events.php" aria-label="Binding to events demo">Demo</a>
+                            <a class="demo_link" href="https://demos.learnosity.com/authoring/events.php" aria-label="Binding to events demo">Demo</a>
                         </p>
                     </div>
                 </div>
@@ -180,7 +180,7 @@ include_once 'includes/header.php';
                     <div class="panel-body">
                         <p>The activity edit mode allows authors to browse and search multiple Learnosity hosted item banks for existing items to add to an activity.</p>
                         <p class="text-right">
-                            <a class="demo_link" href="./activity-edit-multi-ibk.php" aria-label="Create activities from multiple item banks demo">Demo</a>
+                            <a class="demo_link" href="https://demos.learnosity.com/authoring/activity-edit-multi-ibk.php" aria-label="Create activities from multiple item banks demo">Demo</a>
                         </p>
                     </div>
                 </div>
@@ -201,7 +201,7 @@ include_once 'includes/header.php';
                     <div class="panel-body">
                         <p>Create and edit items that persist in your Learnosity-hosted item bank.</p>
                         <p class="text-right">
-                            <a class="demo_link" href="./item-create.php" aria-label="Create new items demo">Demo</a>
+                            <a class="demo_link" href="https://demos.learnosity.com/authoring/item-create.php" aria-label="Create new items demo">Demo</a>
                         </p>
                     </div>
                 </div>
@@ -214,7 +214,7 @@ include_once 'includes/header.php';
                     <div class="panel-body">
                         <p>Create and edit activites that persist in your Learnosity-hosted item bank.</p>
                         <p class="text-right">
-                            <a class="demo_link" href="./activity-create.php" aria-label="Create new activities demo">Demo</a>
+                            <a class="demo_link" href="https://demos.learnosity.com/authoring/activity-create.php" aria-label="Create new activities demo">Demo</a>
                         </p>
                     </div>
                 </div>
@@ -230,7 +230,7 @@ include_once 'includes/header.php';
                     <div class="panel-body">
                         <p>Bring your authors straight to a question editing panel using JavaScript methods.</p>
                         <p class="text-right">
-                            <a class="demo_link" href="./question-edit.php" aria-label="Edit questions directly demo">Demo</a>
+                            <a class="demo_link" href="https://demos.learnosity.com/authoring/question-edit.php" aria-label="Edit questions directly demo">Demo</a>
                         </p>
                     </div>
                 </div>
@@ -245,7 +245,7 @@ include_once 'includes/header.php';
                         <p>Move your item through a series of workflow states, from a first draft to the
                             finished product.</p>
                         <p class="text-right">
-                            <a class="demo_link" href="./workflow.php" aria-label="Publishing workflow demo">Demo</a>
+                            <a class="demo_link" href="https://demos.learnosity.com/authoring/workflow.php" aria-label="Publishing workflow demo">Demo</a>
                         </p>
                     </div>
                 </div>
@@ -265,7 +265,7 @@ include_once 'includes/header.php';
                     <div class="panel-body">
                         <p>Create your own question templates with default values, and simplify the editing interface by hiding unwanted fields.</p>
                         <p class="text-right">
-                            <a class="demo_link" href="./question_templates.php" aria-label="Custom question templates demo">Demo</a>
+                            <a class="demo_link" href="https://demos.learnosity.com/authoring/question_templates.php" aria-label="Custom question templates demo">Demo</a>
                         </p>
                     </div>
                 </div>
@@ -279,7 +279,7 @@ include_once 'includes/header.php';
                         <p>The simple authoring mode is an opinionated subset of the full authoring templates and
                             layouts available by default—ideal for use in an LMS for teacher or instructor use.</p>
                         <p class="text-right">
-                            <a class="demo_link" href="./item-edit-simple.php" aria-label="Simple authoring layout demo">Demo</a>
+                            <a class="demo_link" href="https://demos.learnosity.com/authoring/item-edit-simple.php" aria-label="Simple authoring layout demo">Demo</a>
                         </p>
                     </div>
                 </div>
@@ -295,7 +295,7 @@ include_once 'includes/header.php';
                     <div class="panel-body">
                         <p>Custom editor panel layouts allow you to move, re-order and customize the question editor UI to your liking.</p>
                         <p class="text-right">
-                            <a class="demo_link" href="./custom-qe-layout.php" aria-label="Customize question editing layout demo">Demo</a>
+                            <a class="demo_link" href="https://demos.learnosity.com/authoring/custom-qe-layout.php" aria-label="Customize question editing layout demo">Demo</a>
                         </p>
                     </div>
                 </div>
@@ -308,7 +308,7 @@ include_once 'includes/header.php';
                     <div class="panel-body">
                         <p>Use your own asset management tool when integrating Learnosity into your CMS.</p>
                         <p class="text-right">
-                            <a class="demo_link" href="./dam-asset-request.php" aria-label="Custom digital asset management demo">Demo</a>
+                            <a class="demo_link" href="https://demos.learnosity.com/authoring/dam-asset-request.php" aria-label="Custom digital asset management demo">Demo</a>
                         </p>
                     </div>
                 </div>
@@ -324,7 +324,7 @@ include_once 'includes/header.php';
                     <div class="panel-body">
                         <p>Custom buttons give you the ability to extend the standard Learnosity toolbar to add new functionality as you need it.</p>
                         <p class="text-right">
-                            <a class="demo_link" href="./custom-editor-buttons.php" aria-label="Custom editor toolbar demo">Demo</a>
+                            <a class="demo_link" href="https://demos.learnosity.com/authoring/custom-editor-buttons.php" aria-label="Custom editor toolbar demo">Demo</a>
                         </p>
                     </div>
                 </div>
@@ -337,7 +337,7 @@ include_once 'includes/header.php';
                     <div class="panel-body">
                         <p>Custom simple feature modal layouts allow you to move, re-order and customize the simple features to your liking.</p>
                         <p class="text-right">
-                            <a class="demo_link" href="./simple-feature-layout.php" aria-label="Custom simple feature modal demo">Demo</a>
+                            <a class="demo_link" href="https://demos.learnosity.com/authoring/simple-feature-layout.php" aria-label="Custom simple feature modal demo">Demo</a>
                         </p>
                     </div>
                 </div>
@@ -353,7 +353,7 @@ include_once 'includes/header.php';
                     <div class="panel-body">
                         <p>This demo demonstrates the Learnosity approach to handling right-to-left languages.</p>
                         <p class="text-right">
-                            <a class="demo_link" href="./rtl.php" aria-label="Right-to-left language demo">Demo</a>
+                            <a class="demo_link" href="https://demos.learnosity.com/authoring/rtl.php" aria-label="Right-to-left language demo">Demo</a>
                         </p>
                     </div>
                 </div>
@@ -366,7 +366,7 @@ include_once 'includes/header.php';
                     <div class="panel-body">
                         <p>This demo demonstrates how Learnosity provides language bundles for different languages.</p>
                         <p class="text-right">
-                            <a class="demo_link" href="./item-list-i18n.php" aria-label="Multiple languages demo">Demo</a>
+                            <a class="demo_link" href="https://demos.learnosity.com/authoring/item-list-i18n.php" aria-label="Multiple languages demo">Demo</a>
                         </p>
                     </div>
                 </div>
@@ -382,7 +382,7 @@ include_once 'includes/header.php';
                     <div class="panel-body">
                         <p>Customize the RTE toolbar to rearrange or hide options.</p>
                         <p class="text-right">
-                            <a class="demo_link" href="./custom-ckeditor-toolbar.php" aria-label="Customize rich-text-editor demo">Demo</a>
+                            <a class="demo_link" href="https://demos.learnosity.com/authoring/custom-ckeditor-toolbar.php" aria-label="Customize rich-text-editor demo">Demo</a>
                         </p>
                     </div>
                 </div>
@@ -398,7 +398,7 @@ include_once 'includes/header.php';
                     <div class="panel-body">
                         <p>Item Titles allow authors to better organize and identify their content. Unlike references, titles can contain special characters and do not have to be unique.</p>
                         <p class="text-right">
-                            <a class="demo_link" href="./item-titles.php" aria-label="Enabling item titles demo">Demo</a>
+                            <a class="demo_link" href="https://demos.learnosity.com/authoring/item-titles.php" aria-label="Enabling item titles demo">Demo</a>
                         </p>
                     </div>
                 </div>
