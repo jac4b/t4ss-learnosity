@@ -7,7 +7,7 @@
                 <!-- <a href="/">
                     <img src="/static/images/lrn-demos-logo-white-2x.png" alt="Learnosity Demos" class="logo">
                 </a> -->
-                <img class="font-size-scale" src="https://t4lgames.time4learning.com/production/t4ss_grade4/activity/assets/images/t4l_logo.png" id="logo" style="height: 3em; margin: 10px auto; display: block;">
+                <img class="font-size-scale" src="https://t4lgames.time4learning.com/production/t4ss_grade4/activity/assets/images/t4l_logo.png" id="logo" style="margin: 10px auto; display: block;">
             </div>
             <!-- <div class="col-lg-9 col-md-12 footer-links">
                 <a href="https://support.learnosity.com/hc/en-us">Developer Help</a>
